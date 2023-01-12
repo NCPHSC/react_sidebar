@@ -11,7 +11,7 @@ const routes = [
         icon:<FaHome/>,
     },
     {
-        path:"/issuer",
+        path:"/issuer", 
         name:"Issuer",
         icon:<FaSchool/>,
     },
